@@ -1,0 +1,1 @@
+gen=int(input)
