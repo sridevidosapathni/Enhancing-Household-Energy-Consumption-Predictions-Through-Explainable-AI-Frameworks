@@ -1,4 +1,3 @@
-# Enhancing-Household-Energy-Consumption-Predictions-Through-Explainable-AI-Frameworks
 # Enhancing Household Energy Consumption Predictions Through Explainable AI Frameworks
 
 ## Overview
