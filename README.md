@@ -200,7 +200,7 @@ pip install -r requirements.txt
 11. Apply SHAP and LIME to explain the model predictions.
 12. Analyze the feature contributions and prediction results.
 
-## 📈 Results
+##  Results
 
 The project evaluates different Machine Learning and Deep Learning models for household energy consumption prediction.
 
@@ -210,19 +210,19 @@ SHAP and LIME are then used to explain the selected model and identify the featu
 
 ##  Key Features
 
-* 🏠 Household energy consumption prediction
-* 🧹 Data preprocessing and cleaning
-* 📊 Exploratory data analysis
-* ⚙️ Temporal and lag-based feature engineering
-* 🤖 Machine Learning model comparison
-* 🧠 Deep Learning-based prediction
-* 📈 Model performance evaluation
-* 🔍 SHAP-based explainability
-* 💡 LIME-based explainability
-* 📌 Feature importance analysis
-* 🔎 Interpretable energy consumption predictions
+*  Household energy consumption prediction
+*  Data preprocessing and cleaning
+*  Exploratory data analysis
+*  Temporal and lag-based feature engineering
+*  Machine Learning model comparison
+*  Deep Learning-based prediction
+*  Model performance evaluation
+*  SHAP-based explainability
+*  LIME-based explainability
+*  Feature importance analysis
+*  Interpretable energy consumption predictions
 
-## 🔮 Future Scope
+##  Future Scope
 
 * Real-time household energy consumption prediction
 * Smart meter and IoT integration
